@@ -1,0 +1,211 @@
+
+#TOPIC 1. HOSPITAL FACILITIES
+
+# Highest Prob: patient, trolley, bed, day, ward, corridor, father
+# FREX: trolley, privaci, corridor, space, overcrowd, father, danger
+# Lift: c-diff, pancrea, unhealthi, narrow, lick, dollar, central
+# Score: unhealthi, trolley, father, privaci, corridor, bed, space
+ 
+TOPIC 2. HOSPITAL MANAGEMENT & CARE
+
+# Highest Prob: manag, patient, care, hospit, health, ward, dad
+# FREX: manag, hse, repeat, dad, afford, cost, practic
+# Lift: data, franci, stink, chief, necess, hoop, religion
+# Score: franci, manag, dad, afford, hse, repeat, relat
+
+TOPIC 3. HOSPITAL HYGIENE
+
+# Highest Prob: clean, toilet, ward, hospit, use, filthi, room
+# FREX: filthi, toilet, hygien, isol, clean, bathroom, sheet
+# Lift: checklist, demolish, hole, filth, junction, untidi, speck
+# Score: toilet, filthi, clean, demolish, wash, bathroom, hygien
+
+TOPIC 4. CARE & TREATMENT IN EMERGENCY
+
+# Highest Prob: depart, emerg, treatment, hospit, dept, daughter, medic
+# FREX: depart, emerg, dept, brother, ongo, navan, icu
+# Lift: tue, bravo, homecar, stark, carbon, trevor, grief
+# Score: depart, emerg, bravo, dept, brother, navan, treatment
+
+TOPIC 5. COMMUNICATION FROM DOCTOR
+
+# Highest Prob: like, feel, felt, doctor, look, made, treat
+# FREX: felt, feel, like, eas, made, realli, look
+# Lift: attracta, firstth, somon, daugher, inferior, preferenti, hinder
+# Score: felt, feel, like, attracta, eas, made, look
+
+Topic 6. Prescription and Treatment
+
+# Highest Prob: pain, told, day, home, back, nurs, said
+# FREX: pain, relief, antibiot, agoni, told, home, bleed
+# Lift: defin, ncbi, nebulisor, silent, butter, punctur, cerebr
+# Score: pain, told, defin, relief, said, home, antibiot
+
+TOPIC 7. HOSPITAL CARE EXPERIENCE
+
+# Highest Prob: good, experi, overal, posit, time, hospit, treatment
+# FREX: overal, good, posit, experi, satisfi, beacon, dread
+# Lift: satisfactori, moss, kevin, aut, session, fiona, croom
+# Score: good, satisfactori, overal, experi, posit, satisfi, ali
+
+TOPIC 8. DEMENTIA CARE
+
+# Highest Prob: take, patient, hospit, nurs, left, die, horrif
+# FREX: horrif, dementia, confus, die, hell, record, take
+# Lift: ownership, begrudg, mock, sibl, jurisdict, vascular, cervic
+# Score: ownership, dementia, horrif, confus, take, die, father
+
+TOPIC 9. WAITING TIME
+
+# Highest Prob: wait, hour, doctor, seen, time, see, told
+# FREX: wait, seen, hour, x-ray, minut, triag, long
+# Lift: exposur, hatch, voicemail, amus, midoc, playroom, unorganis
+# Score: wait, hour, seen, x-ray, amus, doctor, triag
+ 
+TOPIC 10. HOSPITAL SERVICE EXPERIENCE
+
+# Highest Prob: hospit, ever, experi, never, recommend, bad, worst
+# FREX: ever, ive, worst, street, portlaois, recommend, coomb
+# Lift: applic, primit, royal, deform, overstretch, frontlin, asset
+# Score: ever, recommend, worst, applic, coomb, experi, street
+
+TOPIC 11. HOSPITAL ENVIRONMENT STANDARDS
+
+# Highest Prob: hospit, dirti, world, countri, place, choic, rate
+# FREX: world, dirti, hotel, rate, countri, choic, polici
+# Lift: correspond, reopen, interior, upgrad, irrespect, refurbish, compel
+# Score: dirti, upgrad, world, reopen, rate, countri, hotel
+
+TOPIC 12. MEDICAL TESTS
+
+# Highest Prob: test, done, told, month, result, scan, doctor
+# FREX: test, done, month, result, mri, scan, specialist
+# Lift: content, glucos, resect, aortic, valv, gastroscopi, appeal
+# Score: content, test, done, scan, mri, told, result
+
+TOPIC 13. NURSING STAFF & FACILITY
+
+# Highest Prob: nurs, bed, night, room, put, walk, ward
+# FREX: sleep, woman, arm, walk, drip, door, side
+# Lift: awfulbut, bestgod, imper, injuryi, non-stop, plot, six-b
+# Score: non-stop, bed, sleep, nurs, walk, woman, arm
+
+TOPIC 14. TIMELY SERVICE
+
+# Highest Prob: servic, poor, staff, medic, qualiti, facil, excel
+# FREX: servic, poor, qualiti, star, facil, prompt, beaumont
+# Lift: rebuild, star, aesthet, pander, radiotherapist, wcs, appetis
+# Score: star, poor, servic, excel, qualiti, receiv, provid
+
+TOPIC 15. NURSING CARE AND ATTENTION
+
+# Highest Prob: thank, nurs, staff, enough, care, receiv, kind
+# FREX: outstand, prais, enough, thank, dedic, grate, fault
+# Lift: ardfert, susan, feb, bow, modest, hewitt, matt
+# Score: outstand, thank, receiv, attent, fantast, prais, ardfert
+
+TOPIC 16. ACUTE CARE
+
+# Highest Prob: nurs, acut, care, ask, hospit, medic, famili
+# FREX: acut, lung, uncl, inject, stori, chest, across
+# Lift: occup, ancient, dis-stress, famous, fenc, riski, seri
+occup, acut, uncl, inject, lung, chest, stori
+
+TOPIC 17. MATERNITY CARE
+
+# Highest Prob: babi, midwif, labour, midwiv, birth, ward, matern
+# FREX: deliveri, labour, midwif, babi, section, birth, epidur
+# Lift: diaster, unassist, godsend, brisk, rubber, nippl, latch
+# Score: babi, midwif, labour, midwiv, birth, deliveri, breastfeed
+
+TOPIC 18. HOSPITAL CONDITIONS
+
+# Highest Prob: room, privat, floor, bed, ward, patient, cover
+# FREX: dress, cover, hot, dump, bag, floor, shower
+# Lift: chaotic, mediev, wash-hand, mixer, drafti, etcth, bracket
+# Score: chaotic, floor, smoke, room, shower, hot, dress
+ 
+TOPIC 19. PROCEDURE AND SURGERY
+
+# Highest Prob: procedur, surgeri, consult, oper, complaint, explain, day
+# FREX: procedur, complaint, oper, fast, surgeri, letter, phone
+# Lift: commenc, diverticul, council, helpful, criteria, childcar, creepi
+# Score: procedur, commenc, oper, complaint, surgeri, letter, phone
+
+TOPIC 20. STAFF ATTITUDE
+
+# Highest Prob: nurs, rude, staff, patient, attitud, doctor, member
+# FREX: rude, attitud, disappoint, unprofession, unhelp, accept, dismiss
+# Lift: dietician, injustic, principl, breathless, empathis, pompous, helpfulhigh
+# Score: rude, dietician, attitud, disappoint, kerri, nurs, unprofession
+
+TOPIC 21. ORGANIZATION OF CARE PROCESS
+
+# Highest Prob: care, excel, ward, profession, well, staff, unit
+# FREX: excel, happi, care, impress, unit, none, high
+# Lift: minim, empath, meticul, laurenc, aisl, comfor, agnew
+# Score: excel, minim, care, happi, impress, fantast, standard
+
+TOPIC 22. COMMUNICATION AMONG STAFF AND WITH PATIENT/FAMILY
+
+# Highest Prob: need, patient, staff, nurs, doctor, hospit, lack
+# FREX: staf, appear, communic, need, appal, overwork, human
+# Lift: fewer, manur, mushroom, consequ, phlebotomist, uncommun, misinform
+# Score: consequ, need, staf, patient, appal, communic, appear
+
+TOPIC 23. OLDER PATIENT CARE
+
+# Highest Prob: mother, doctor, hospit, heart, nurs, chang, stroke
+# FREX: mother, stroke, arrog, attack, age, heart, useless
+# Lift: useless, roscommon, stroke, remot, speech, mother, elev
+# Score: useless, mother, roscommon, stroke, arrog, attack, heart
+
+TOPIC 24. CARE TEAM QUALITY
+
+# Highest Prob: team, brilliant, assess, care, son, medic, cancer
+# FREX: brilliant, team, assess, cancer, oncolog, cuh, ccu
+# Lift: age-rel, aquarium, collin, coud, deciph, enquiri, pushi
+# Score: team, brilliant, vaughan, assess, ccu, cancer, cardiolog
+ 
+TOPIC 25. HOSPITAL ENVIRONMENT EXPERIENCE
+
+# Highest Prob: staff, hospit, great, help, friend, love, well
+# FREX: great, friend, love, cater, nice, alway, help
+# Lift: everytim, brand, turnov, varicos, fussi, airi, chef
+# Score: great, love, staff, friend, clean, everytim, hospit
+
+TOPIC 26. STAFFING SITUATION
+
+# Highest Prob: staff, husband, distress, hospit, left, pain, suffer
+# FREX: utter, distress, aggress, physic, husband, traumatis, suffer
+# Lift: utter, haemorrhag, midwiferi, harden, sadden, displac, uterus
+# Score: utter, distress, husband, aggress, great, pain, physic
+ 
+TOPIC 27. ADMINISTRATIVE SIDE OF THE HOSPITAL, COSTS
+
+# Highest Prob: clinic, appoint, park, attend, privat, hospit, car
+# FREX: park, clinic, car, mater, galway, euro, pay
+# Lift: smithfield, painkillers-wait, driven, rearrang, stigma, hiv, reckon
+# Score: clinic, smithfield, park, mater, car, appoint, galway
+
+TOPIC 28. PATIENTS SUPPORT AND SAFETY
+
+# Highest Prob: except, care, staff, nurs, time, support, everi
+# FREX: except, mom, singl, inpati, extra, limit, compass
+# Lift: nursesdoctor, therapist, maguir, crippl, daunt, troublesom, constip
+# Score: except, therapist, mom, neonat, weston, inpati, limit
+
+TOPIC 29. INFANT CARE ASSURANCE
+
+# Highest Prob: amaz, thank, peopl, care, littl, babi, look
+# FREX: amaz, prof, patricia, forev, confid, boy, john
+# Lift: verona, angl, astound, feargal, hiccup, perspect, scheme
+# Score: slevin, amaz, patricia, quinn, prof, thank, john
+
+TOPIC 30. COMPETENCE AND PROFESSIONALISM OF STAFF
+
+# Highest Prob: time, nurs, staff, hospit, doctor, day, night
+# FREX: time, thing, bit, visit, night, although, first
+# Lift: roast, aug, merrion, -crowd, sloppi, squeez, recruit
+# Score: roast, time, nurs, night, attent, visit, first
+
